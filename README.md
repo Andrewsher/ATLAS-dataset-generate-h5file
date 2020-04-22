@@ -14,5 +14,5 @@ Requirements:
 Usage:
 
 ``` bash
-python generate_h5.py --data-path ${ATLAS_DATASET_PATH}$
+python generate_h5.py --dataset-path ${ATLAS_DATASET_PATH}$
 ```
